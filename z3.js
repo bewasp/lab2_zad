@@ -38,8 +38,4 @@ function getInformation(user){
 	console.log("Wynik: ", wynik);
 }
 
-<<<<<<< HEAD
 getInformation(user);
-=======
-getInformation(user);
->>>>>>> 41ce32170f0701fc97a8463f869caf9029582719
