@@ -37,3 +37,5 @@ function getInformation(user){
 	const wynik = suma / suma_wag;
 	console.log("Wynik: ", wynik);
 }
+
+getInformation(user);
